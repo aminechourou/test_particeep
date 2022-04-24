@@ -1,0 +1,15 @@
+{
+  "files.watcherExclude": {
+    "**/target": true
+  },
+  "ide.projectAutoSort": true,
+  "ide.mavenDefaultGoals": [
+  
+    "clean install -Dmaven.test.skip=true",
+    "clean install"
+  ],
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\ASUS\\Downloads\\vavr-1.0.0-alpha-4.jar"
+  ]
+}
